@@ -203,7 +203,7 @@ function InitFragmentShader()
 function CreateGeometryUI()
 {
     const ew = document.getElementById('w');
-    const w = ew ? ew.value : 1.0;
+    const w = ew ? ew.value : 2.0;
     const eh = document.getElementById('h');
     const h = eh ? eh.value : 1.0;
     const ed = document.getElementById('d');
